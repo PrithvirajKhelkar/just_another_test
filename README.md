@@ -1,3 +1,3 @@
 # prithvirajkhelkar.github.io
-Testing a few things
+Testing a few things.
 Nothing special
